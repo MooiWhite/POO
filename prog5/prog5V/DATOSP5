@@ -1,0 +1,22 @@
+[DATA]
+CustomerID|CompanyName|ContactName|ContactTitle|City|Country
+BOTTM|Bottom.Dollar Markets|Elizabeth Lincoln|Accounting Manager|BC|Canada
+BSBEV|B's Beverages|Victoria Ashworth|Sales Representative|London|UK
+CACTU|Cactus comidas para llevar|Patricio Simpson|Sales Agent|Buenos Aires|Argentina
+CENTC|Centro comercial Moctezuma|Francisco Chang|Marketing Manager|Mexico D.F.|Mexico
+CHOPS|Chop-suey Chinese|Yang Wang|Owner|Bern|Switzerland
+COMMI|Comercio Mineiro|Pedro Alfonso|Sales Associate|Sao Paulo|Brazil
+CONSH|Consolidated Holdings|Elizabeth Brown|Sales Representative|London|UK
+DRACD|Drachenblut Delikatessen|Sven Ottlieb|Order Administrator|Aachen|Germany
+DUMON|Du monde entier|Janine Labrune|Owner|Nantes|France
+EASTC|Eastern Connection|Ann Devon|Sales Agent|London|UK
+ERNSH|Ernst Handel|Roland Mendel|Sales Manager|Graz|Autria
+FAMIA|Familia Arquibaldo|Aria Cruz|Marketing Assistant|Sau Paulo|Brazil
+FISSA|FISSA Fabrica Inter. Salchichas S.A.|Diego Roel|Accounting Manager|Madrid|Spain
+FOLIG|Folies gourmandes|Martine Rancé|Assistant Sales|Agent|Lille|France
+FOLKO|Folk och fa HB|Maria Larsson|Owner|Bracke|Sweden
+[GROUPS]
+Group:CustomerID
+Group:City
+
+
